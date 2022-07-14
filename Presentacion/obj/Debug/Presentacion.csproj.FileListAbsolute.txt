@@ -1,0 +1,263 @@
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Entidad.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Negocio.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Entidad.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Negocio.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.dll.config
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Negocio.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Negocio.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\Datos.dll.config
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Presentacion.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.Shared.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\FlashControlV71.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\stdole.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Venta.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroClientes.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroInventario.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Proveedor.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroProveedor.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmEmpleados.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroEmpleado.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Compras.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FiltroInventarioB.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Inventario.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Ventas.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroUsuario.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Compra.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Acerca.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe.config
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe.manifest
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.application
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.Properties.Resources.resources
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.TrustInfo.xml
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.exe.manifest
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.application
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.exe
+D:\lopez\Escritorio\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe.config
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe.manifest
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.application
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.exe
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\SIBS.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\bin\Debug\stdole.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Acerca.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FiltroInventarioB.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmEmpleados.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Compras.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroClientes.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroEmpleado.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroInventario.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroProveedor.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroUsuario.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Presentacion.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Proveedor.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Venta.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.Properties.Resources.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Compra.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Inventario.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Ventas.resources
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.TrustInfo.xml
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.exe.manifest
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.application
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.exe
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Presentacion\obj\Debug\SIBS.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe.config
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe.manifest
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\SIBS.application
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\SIBS.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Negocio.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Datos.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\stdole.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Negocio.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Datos.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\bin\Debug\Datos.dll.config
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Acerca.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FiltroInventarioB.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmEmpleados.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Compras.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroClientes.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroEmpleado.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroInventario.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroProveedor.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroUsuario.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Presentacion.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Proveedor.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Venta.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.Properties.Resources.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Compra.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Inventario.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Ventas.resources
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.TrustInfo.xml
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.exe.manifest
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.application
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.exe
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Presentacion\obj\Debug\SIBS.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe.config
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe.manifest
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\SIBS.application
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\SIBS.exe
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\SIBS.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Negocio.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\stdole.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FiltroInventarioB.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmEmpleados.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Compras.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroClientes.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroEmpleado.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroInventario.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroProveedor.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_FiltroUsuario.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Presentacion.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Proveedor.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Frm_Venta.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.Properties.Resources.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Compra.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Inventario.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.Reportes.Reporte_Ventas.resources
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.TrustInfo.xml
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.exe.manifest
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.application
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.exe
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Presentacion\obj\Debug\SIBS.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\SIBS.exe.config
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\SIBS.exe.manifest
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\SIBS.application
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\SIBS.exe
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\SIBS.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Negocio.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\stdole.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\bin\Debug\Datos.dll.config
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Acerca.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.FiltroInventarioB.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.FrmEmpleados.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.FrmInventario.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_Compras.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_FiltroClientes.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_FiltroEmpleado.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_FiltroInventario.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_FiltroProveedor.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_FiltroUsuario.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_Presentacion.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_Proveedor.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_Usuario.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Frm_Venta.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.Properties.Resources.resources
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.TrustInfo.xml
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.exe.manifest
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.application
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.exe
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Presentacion\obj\Debug\SIBS.pdb

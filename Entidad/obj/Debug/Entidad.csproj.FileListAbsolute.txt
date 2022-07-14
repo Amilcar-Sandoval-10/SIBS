@@ -1,0 +1,28 @@
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Entidad\bin\Debug\Entidad.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Entidad\bin\Debug\Entidad.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\obj\Debug\Entidad.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Entidad\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Entidad\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Entidad\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Entidad\obj\Debug\Entidad.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Entidad\obj\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\obj\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Entidad\obj\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\obj\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\obj\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Entidad\obj\Debug\Entidad.csprojAssemblyReference.cache

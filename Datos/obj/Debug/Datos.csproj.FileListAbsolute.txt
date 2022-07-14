@@ -1,0 +1,48 @@
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\bin\Debug\Datos.dll.config
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\bin\Debug\Datos.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\bin\Debug\Datos.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\bin\Debug\Entidad.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\bin\Debug\Entidad.pdb
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\obj\Debug\Datos.dll
+D:\lopez\Documents\Análisis y diseño de sistemas\Trabajo Final\Gonper\Datos\obj\Debug\Datos.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\bin\Debug\Datos.dll.config
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\bin\Debug\Datos.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\bin\Debug\Datos.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\obj\Debug\Datos.dll
+D:\lopez\Escritorio\Trabajo Final\Gonper\Datos\obj\Debug\Datos.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\bin\Debug\Datos.dll.config
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\bin\Debug\Datos.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\bin\Debug\Datos.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\bin\Debug\Entidad.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\bin\Debug\Entidad.pdb
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\obj\Debug\Datos.dll
+D:\lopez\Escritorio\Programas Terminados\Gonper\Gonper\Datos\obj\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\bin\Debug\Datos.dll.config
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\bin\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\bin\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\obj\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\Gonper\Gonper\Datos\obj\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\bin\Debug\Datos.dll.config
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\bin\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\bin\Debug\Datos.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\bin\Debug\Entidad.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\bin\Debug\Entidad.pdb
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\obj\Debug\Datos.dll
+C:\Users\donai\OneDrive\Escritorio\SIBS\SIBS\Datos\obj\Debug\Datos.pdb
